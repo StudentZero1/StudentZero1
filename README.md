@@ -8,6 +8,8 @@
 - you can reach me here ramimshek0@gmail.com 
 - unfortunately I'm yet to post a website or make it soo my projects 
 - or what I'm doing will not be posted so you'll see this page pretty blank 
+- ill be probably posting writing promps or stories 
+- why on GitHub I have no idea it's a very interesting place lol 
 - if you found this account 
 - 1. Good job in finding me and 
 - 2. Thank you for reading
