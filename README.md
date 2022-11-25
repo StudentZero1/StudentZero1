@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @StudentZero1
-- 👀 I’m interested in hardware electronics and 
-- I’m looking to collaborate on various projects
-- How to reach me ramimshek0@gmail.com
-
-
+- call me rah for simplicity 
+- I love music I prefer jazz tho and I love tinkering 
+- I love to learn new things or how to code 
+- I'm looking forward to do projects with people
+- also few tips I will probably be not available busy with school
+- so if it's something urgent or if you need to ask a question 
+- you can reach me here ramimshek0@gmail.com 
+- unfortunately I'm yet to post a website or make it soo my projects 
+- or what I'm doing will not be posted so you'll see this page pretty blank 
+- if you found this account 
+- 1. Good job in finding me and 
+- 2. Thank you for reading
+- that's all I belive bye bye 👋 
