@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm tah</h1>
+<h1 align="center">Hi 👋, I'm rah</h1>
 <h3 align="center">A passionate Tinkerer from italy</h3>
 
 - 🔭 I’m currently working on **modding ipod classic 5th gen**
