@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm rah</h1>
+<h1 align="center">Hi 👋, I'm tah</h1>
 <h3 align="center">A passionate Tinkerer from italy</h3>
 
 - 🔭 I’m currently working on **modding ipod classic 5th gen**
@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@studentzero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@studentzero" height="30" width="40" /></a>
+<a href="https://twitter.com/@rahinshek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rahinshek" height="30" width="40" /></a>
+<a href="https://instagram.com/rah_corp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rah_corp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
