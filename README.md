@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rah</h1>
 <h3 align="center">A passionate Tinkerer from italy</h3>
 
-- 🔭 I’m currently working on **modding ipod classic 5th gen**
+- 🔭 I’m currently working on **Esp32 DiY marauder**
 
 - 🌱 I’m currently learning **python and different hardware**
 
