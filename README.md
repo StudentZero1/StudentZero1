@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rah</h1>
 <h3 align="center">A passionate Tinkerer from italy</h3>
 
-- 🔭 I’m currently working on **Esp32 DiY marauder**
+- 🔭 I’m currently working on **fixing my 3d printer**
 
-- 🌱 I’m currently learning **python and different hardware**
+- 🌱 I’m currently learning **learning fusion 360**
 
 - 💬 Ask me about **anything**
 
